@@ -1,2 +1,2 @@
 # guozi
-spric
+青龙脚本
